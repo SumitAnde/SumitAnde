@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SumitAnde
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Spring Framework.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on new technologies.
 - 📫 How to reach me, Email : sumitande.98@gmail.com
 
 <!---
